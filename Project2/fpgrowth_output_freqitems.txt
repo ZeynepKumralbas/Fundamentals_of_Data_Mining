@@ -1,0 +1,13 @@
+     support         itemsets
+11  0.441162           (Milk)
+0   0.439885           (Ghee)
+1   0.439805  (Coffee Powder)
+2   0.439326        (Yougurt)
+7   0.437809          (Bread)
+9   0.437730          (Sweet)
+10  0.437650          (Sugar)
+3   0.437570         (Butter)
+4   0.437171         (Cheese)
+8   0.434616         (Panner)
+5   0.433658          (Lassi)
+6   0.429746     (Tea Powder)

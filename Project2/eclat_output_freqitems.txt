@@ -1,0 +1,12 @@
+ ['Milk'] : 0.4412 
+ ['Ghee'] : 0.4399 
+ ['Coffee Powder'] : 0.4398 
+ ['Yougurt'] : 0.4393 
+ ['Bread'] : 0.4378 
+ ['Sweet'] : 0.4377 
+ ['Sugar'] : 0.4376 
+ ['Butter'] : 0.4376 
+ ['Cheese'] : 0.4372 
+ ['Panner'] : 0.4346 
+ ['Lassi'] : 0.4337 
+ ['Tea Powder'] : 0.4297 
