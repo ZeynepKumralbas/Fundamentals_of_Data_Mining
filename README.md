@@ -1,3 +1,5 @@
+_**Fundamentals of Data Mining Course (senior year)**_
+
 **Project 1**
 
 Australian sign language signs: Kadous,Mohammed. (1999). Australian Sign Language signs. UCI Machine Learning Repository. https://doi.org/10.24432/C5XG6C.
